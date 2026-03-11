@@ -3,5 +3,9 @@ def name(a,b):
  def sub(a,b):
     print(a+b)
 
+
     
-    
+def name(a,b):
+    print(a+" "+b)
+ def sub(a,b):
+    print(a+b)    
